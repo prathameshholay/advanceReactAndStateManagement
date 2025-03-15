@@ -89,7 +89,7 @@ function App() {
             marginTop: '30px',
             padding: '10px 20px',
             backgroundColor: theme === 'light' ? '#007bff' : '#ffc107',
-            color: '#fff',
+            color: 'black',
             border: 'none',
             borderRadius: '5px',
             cursor: 'pointer'
